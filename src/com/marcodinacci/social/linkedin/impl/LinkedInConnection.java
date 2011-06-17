@@ -1,4 +1,4 @@
-package com.marcodinacci.commons.social.impl;
+package com.marcodinacci.social.linkedin.impl;
 
 import org.simpleframework.xml.Element;
 import org.simpleframework.xml.Root;
@@ -8,7 +8,7 @@ import android.net.Uri;
 
 import com.marcodinacci.commons.social.Connection;
 import com.marcodinacci.commons.social.Location;
-import com.marcodinacci.commons.social.impl.LinkedInLocation;
+import com.marcodinacci.social.linkedin.impl.LinkedInLocation;
 
 @Root(name="person")
 public class LinkedInConnection implements Connection {

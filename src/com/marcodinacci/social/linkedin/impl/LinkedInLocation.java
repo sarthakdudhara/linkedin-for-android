@@ -1,4 +1,4 @@
-package com.marcodinacci.commons.social.impl;
+package com.marcodinacci.social.linkedin.impl;
 
 import org.simpleframework.xml.Element;
 import org.simpleframework.xml.Root;

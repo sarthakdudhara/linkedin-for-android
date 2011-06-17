@@ -1,4 +1,4 @@
-package com.marcodinacci.commons.social.impl;
+package com.marcodinacci.social.linkedin.impl;
 
 import java.net.URI;
 import java.util.List;

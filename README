@@ -1,0 +1,7 @@
+social-linkedin
+Implement commons-social classes for the LinkedIn website
+
+CHANGELOG:
+
+Version 1.0:
+- Added basic LinkedIn connections support.

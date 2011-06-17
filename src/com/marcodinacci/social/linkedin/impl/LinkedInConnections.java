@@ -1,4 +1,4 @@
-package com.marcodinacci.commons.social.impl;
+package com.marcodinacci.social.linkedin.impl;
 
 import java.util.List;
 
@@ -7,7 +7,7 @@ import org.simpleframework.xml.ElementList;
 import org.simpleframework.xml.Root;
 
 import com.marcodinacci.commons.social.Connections;
-import com.marcodinacci.commons.social.impl.LinkedInConnection;
+import com.marcodinacci.social.linkedin.impl.LinkedInConnection;
 
 @Root(name="connections", strict=false)
 public class LinkedInConnections implements Connections {
