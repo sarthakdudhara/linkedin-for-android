@@ -1,7 +1,9 @@
-social-linkedin
-Implement commons-social classes for the LinkedIn website
+linkedin-for-android
+Implement OAuth authorisation on LinkedIn and offers basic connections support.
 
 CHANGELOG:
+Version 1.1:
+- Refactored to avoid any external source dependencies.
 
 Version 1.0:
 - Added basic LinkedIn connections support.
