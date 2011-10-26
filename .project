@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>social-linkedin</name>
+	<name>linkedin-for-android</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -31,21 +31,6 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
 	<linkedResources>
-		<link>
-			<name>commons-auth_src</name>
-			<type>2</type>
-			<locationURI>_android_commons_auth_39ba1c6d/src</locationURI>
-		</link>
-		<link>
-			<name>commons-data-xml_src</name>
-			<type>2</type>
-			<locationURI>_android_commons_data_xml_72a6a3b9/src</locationURI>
-		</link>
-		<link>
-			<name>commons-data_src</name>
-			<type>2</type>
-			<locationURI>_android_commons_data_39bb2e6f/src</locationURI>
-		</link>
 		<link>
 			<name>commons-social_src</name>
 			<type>2</type>

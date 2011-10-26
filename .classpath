@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/commons-data-xml"/>
 	<classpathentry kind="src" path="gen"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
-	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/commons-auth"/>
-	<classpathentry kind="src" path="commons-data-xml_src"/>
-	<classpathentry kind="src" path="commons-data_src"/>
-	<classpathentry kind="src" path="commons-social_src"/>
-	<classpathentry kind="src" path="commons-auth_src"/>
+	<classpathentry kind="lib" path="libs/simple-xml-2.5.3.jar"/>
+	<classpathentry kind="lib" path="libs/scribe-1.2.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
